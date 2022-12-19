@@ -23,4 +23,4 @@ Packages used in this project:
 - Style Transfer V6.0: Video style transfer
 
 ## Results:
-[Output1](./Image Style Transfer Results/FinalOutput1.jpg
+[Output1](./Image Style Transfer Results/FinalOutput1.jpg)
