@@ -6,7 +6,7 @@ In this work we experiment with multiple different strategies for neural based s
 ## Requirement
 We write the main code on Google Colab and include the command line to install these necessary packages.
 Packages used in this project:
-- Google JAX
-- Flax: A neural network library and ecosystem for JAX designed for flexibility
-- Flaxmodels: A collection of pre-trained models in Flax, by [Matthias-wright](https://github.com/matthias-wright/flaxmodels)
+- [Google JAX](https://github.com/google/jax)
+- [Flax](https://github.com/google/flax): A neural network library and ecosystem for JAX designed for flexibility
+- [Flaxmodels](https://github.com/matthias-wright/flaxmodels): A collection of pre-trained models in Flax, by Matthias-wright
 
