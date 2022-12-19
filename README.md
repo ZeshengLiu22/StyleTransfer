@@ -11,4 +11,5 @@ Packages used in this project:
 - [Flaxmodels](https://github.com/matthias-wright/flaxmodels): A collection of pre-trained models in Flax, by Matthias-wright
 - [Optax](https://github.com/deepmind/optax): A gradient processing and optimization library for JAX, provide optimizers and Huber loss
 - [ClosedFormMatting](https://github.com/MarcoForte/closed-form-matting): A package used for calculating the Matting Laplacian
+- [OpenCV](https://github.com/opencv/opencv): A package used for image processing and video processing
 
