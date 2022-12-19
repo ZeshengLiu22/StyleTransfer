@@ -23,4 +23,8 @@ Packages used in this project:
 - Style Transfer V6.0: Video style transfer
 
 ## Results:
-[Output1](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput1.jpg)
+![Output1](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput1.jpg)
+![Output2](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput2.jpg)
+![Output3](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput3.jpg)
+
+For output 2, we also use the method of image stitching.
