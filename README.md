@@ -1,9 +1,9 @@
 # Final Project for CIS5810: Neural Style Transfer in JAX
 
-##Introduction
+## Introduction
 In this work we experiment with multiple different strategies for neural based style transfer on both videos and images. We follow previously published methodology proposed by Gatys et.al while attempting to optimize the output, trying a variety of different networks for feature extraction, different optimizers different loss functions and different regularization terms to produce the ideal output. In the end, we try to extend our work into video style transfer.
 
-##Requirement
+## Requirement
 We write the main code on Google Colab and include the command line to install these necessary packages.
 Packages used in this project:
 - Google JAX
