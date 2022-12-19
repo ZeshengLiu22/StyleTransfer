@@ -9,4 +9,6 @@ Packages used in this project:
 - [Google JAX](https://github.com/google/jax)
 - [Flax](https://github.com/google/flax): A neural network library and ecosystem for JAX designed for flexibility
 - [Flaxmodels](https://github.com/matthias-wright/flaxmodels): A collection of pre-trained models in Flax, by Matthias-wright
+- [Optax](https://github.com/deepmind/optax): A gradient processing and optimization library for JAX, provide optimizers and Huber loss
+- [ClosedFormMatting](https://github.com/MarcoForte/closed-form-matting): A package used for calculating the Matting Laplacian
 
