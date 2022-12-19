@@ -18,4 +18,6 @@ Packages used in this project:
 - Style Transfer V1.0: Baseline file
 - Style Transfer V2.0: Clean the code file to make it more readable, rewrite several parts using class
 - Style Transfer V3.0: Change the implementation of the pretrained model to ResNet models.
-- Style Transfer V4.0: 
+- Style Transfer V4.0: Add total variation regularization and photorealistic regularization
+- Style Transfer V5.0: Change for different Loss
+- Style Transfer V6.0: Video style transfer
