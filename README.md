@@ -13,3 +13,9 @@ Packages used in this project:
 - [ClosedFormMatting](https://github.com/MarcoForte/closed-form-matting): A package used for calculating the Matting Laplacian
 - [OpenCV](https://github.com/opencv/opencv): A package used for image processing and video processing
 - [PIL](https://github.com/python-pillow/Pillow): A package for image processing
+
+## Code files:
+- Style Transfer V1.0: Baseline file
+- Style Transfer V2.0: Clean the code file to make it more readable, rewrite several parts using class
+- Style Transfer V3.0: Change the implementation of the pretrained model to ResNet models.
+- Style Transfer V4.0: 
