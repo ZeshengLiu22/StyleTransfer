@@ -27,4 +27,4 @@ Packages used in this project:
 ![Output2](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput2.jpg)
 ![Output3](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput3.jpg)
 
-For output 2, we also use the method of image stitching.
+For output 2, we also use the method of image stitching to generate large output.
