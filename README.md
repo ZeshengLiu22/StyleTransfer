@@ -22,9 +22,12 @@ Packages used in this project:
 - Style Transfer V5.0: Change for different Loss
 - Style Transfer V6.0: Video style transfer
 
-## Results:
+## Image Results:
 ![Output1](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput1.jpg)
 ![Output2](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput2.jpg)
 ![Output3](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput3.jpg)
 
 For output 2, we also use the method of image stitching to generate large output.
+
+## Video Results:
+See the folder.
