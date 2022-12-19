@@ -12,4 +12,4 @@ Packages used in this project:
 - [Optax](https://github.com/deepmind/optax): A gradient processing and optimization library for JAX, provide optimizers and Huber loss
 - [ClosedFormMatting](https://github.com/MarcoForte/closed-form-matting): A package used for calculating the Matting Laplacian
 - [OpenCV](https://github.com/opencv/opencv): A package used for image processing and video processing
-
+- [PIL](https://github.com/python-pillow/Pillow): A package for image processing
